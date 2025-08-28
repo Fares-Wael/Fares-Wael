@@ -1,16 +1,136 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fares Hegazi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**Fares-Wael/Fares-Wael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Digital IC Design Student | 🎯 Team Leader @ Momentum | ✍️ Content Creator  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <picture><img src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/about_me.gif?raw=true" width="50px"></picture> About Me  
+
+<picture> 
+  <img align="right" src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/Right_Side.gif?raw=true" width="250px">
+</picture>
+
+- 🎓 Undergraduate **Communication Engineering Student (ECE)**  
+- 💡 Specialized in **Digital IC Design, Verification, and Embedded Systems**  
+- 👨‍🏫 Instructor in **Digital Design & Hardware**  
+- 🧑‍💼 **Leader of Momentum Student Team** (since 2024)  
+- 📝 3+ years of experience as a **Content Creator & Marketing Specialist**  
+- ⚡ Passionate about **Chip Design, Hardware Projects, and PCB Design**  
+- 📧 Reach me at **[your email here]**  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <!-- Replace with your real LinkedIn -->
+  <a href="<h1 align="center">Hi, I'm Fares Hegazi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+🚀 Digital IC Design Student | 🎯 Team Leader @ Momentum | ✍️ Content Creator  
+</p>
+
+---
+
+## <picture><img src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/about_me.gif?raw=true" width="50px"></picture> About Me  
+
+<picture> 
+  <img align="right" src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/Right_Side.gif?raw=true" width="250px">
+</picture>
+
+- 🎓 Undergraduate **Communication Engineering Student (ECE)**  
+- 💡 Specialized in **Digital IC Design, Verification, and Embedded Systems**  
+- 👨‍🏫 Instructor in **Digital Design & Hardware**  
+- 🧑‍💼 **Leader of Momentum Student Team** (since 2024)  
+- 📝 3+ years of experience as a **Content Creator & Marketing Specialist**  
+- ⚡ Passionate about **Chip Design, Hardware Projects, and PCB Design**  
+- 📧 Reach me at **[your email here]**  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <!-- Replace with your real LinkedIn -->
+  <a href="https://www.linkedin.com/in/fares-hegazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <!-- Replace with your real Facebook -->
+  <a href="https://www.facebook.com/fares.wael.37" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  
+---
+
+## 🛠️ Skills  
+
+### 💻 Languages  
+<p align="center">
+  <code><img src="verilog.png" alt="Verilog" width="40" height="40"/></code>
+  <code><img src="SVicon.jpg" alt="SystemVerilog" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/color/48/vhdl.png" alt="VHDL" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/ios-filled/50/uvm.png" alt="UVM" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></code>
+</p>  
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/ios/50/inspection.png" alt="Questa Lint" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/ios/50/security-checked.png" alt="Questa Formal" width="40" height="40"/></code>
+  <code><img src="ModelSim.png" alt="ModelSim" width="40" height="40"/></code>
+  <code><img src="FPGA.png" alt="Vivado" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/ios/50/microchip.png" alt="ISE Design Suite" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/color/48/altium-designer.png" alt="Altium" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/color/48/kicad.png" alt="KiCad" width="40" height="40"/></code>
+  <code><img src="proteus.png" alt="Proteus" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/ios/50/electronics.png" alt="Multisim" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/ios/50/electronics-engineering.png" alt="LTSpice" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/color/48/easyeda.png" alt="EasyEDA" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino IDE" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Studio" width="40" height="40"/></code>
+  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fares-Hegazi&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fares-Hegazi&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+- 🏳️ **Momentum's Team Leader** for 2024 - 2025
+- 🥈 **2nd Place RoboSoccer** Competition  
+- 🤝 Led **partnerships & marketing campaigns** (e.g. Barq, The Stage, Momentum collaborations)  
+- 🎤 Instructor in **IC Design & Hardware Trainings**  
+
+---
+
+<p align="center">
+  <a href="#"><img src="https://profile-counter.glitch.me/Fares-Hegazi/count.svg" alt="Profile Views"></a>  
+</p>
+" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <!-- Replace with your real Facebook -->
+  <a href="https://www.facebook.com/fares.hegazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <!-- Optional: GitHub Portfolio Website -->
+  <a href="https://fareshegazi.github.io" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
+  </a>
+</p>  
+
+---
