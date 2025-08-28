@@ -41,8 +41,8 @@
 <p align="center">
   <code><img src="verilog.png" alt="Verilog" width="40" height="40"/></code>
   <code><img src="SVicon.jpg" alt="SystemVerilog" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/vhdl.png" alt="VHDL" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/ios-filled/50/uvm.png" alt="UVM" width="40" height="40"/></code>
+  <code><img src="vhdl.png" alt="VHDL" width="40" height="40"/></code>
+  <code><img src="uvm.png" alt="UVM" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></code>
@@ -52,17 +52,16 @@
 ### ⚙️ Tools & Platforms  
 <p align="center">
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/ios/50/inspection.png" alt="Questa Lint" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/ios/50/security-checked.png" alt="Questa Formal" width="40" height="40"/></code>
+  <code><img src="download.png" alt="Questa Lint" width="40" height="40"/></code>
   <code><img src="ModelSim.png" alt="ModelSim" width="40" height="40"/></code>
   <code><img src="FPGA.png" alt="Vivado" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/ios/50/microchip.png" alt="ISE Design Suite" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/altium-designer.png" alt="Altium" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/kicad.png" alt="KiCad" width="40" height="40"/></code>
+  <code><img src="ise.png" alt="ISE Design Suite" width="40" height="40"/></code>
+  <code><img src="altium.png" alt="Altium" width="40" height="40"/></code>
+  <code><img src="kicad.png" alt="KiCad" width="40" height="40"/></code>
   <code><img src="proteus.png" alt="Proteus" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/ios/50/electronics.png" alt="Multisim" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/ios/50/electronics-engineering.png" alt="LTSpice" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/easyeda.png" alt="EasyEDA" width="40" height="40"/></code>
+  <code><img src="multi.png" alt="Multisim" width="40" height="40"/></code>
+  <code><img src="ltspice.jpg" alt="LTSpice" width="40" height="40"/></code>
+  <code><img src="easyeda-thumbnail.png" alt="EasyEDA" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino IDE" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Studio" width="40" height="40"/></code>
