@@ -97,5 +97,5 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://profile-counter.glitch.me/Fares-Hegazi/count.svg" alt="Profile Views"></a>  
+  <a href="#"><img src="https://profile-counter.glitch.me/Fares-Wael/count.svg" alt="Profile Views"></a>  
 </p>
