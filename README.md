@@ -96,6 +96,8 @@
 
 ---
 
+<h3 align="center">👀 Profile Views</h3>
+
 <p align="center">
-  <a href="#"><img src="https://profile-counter.glitch.me/Fares-Wael/count.svg" alt="Profile Views"></a>  
+  <img src="https://profile-counter.glitch.me/Fares-Wael/count.svg" alt="Profile Views" />
 </p>
