@@ -99,5 +99,6 @@
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Fares-Wael/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Fares-Wael&style=for-the-badge" alt="Profile Views" />
 </p>
+
