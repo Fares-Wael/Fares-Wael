@@ -18,7 +18,7 @@
 - 🧑‍💼 **Leader of Momentum Student Team** (since 2024)  
 - 📝 3+ years of experience as a **Content Creator & Marketing Specialist**  
 - ⚡ Passionate about **Chip Design, Hardware Projects, and PCB Design**  
-- 📧 Reach me at **[your email here]**  
+- 📧 Reach me at **fareswaelheagzy@gmail.com**  
 
 ---
 
@@ -30,9 +30,6 @@
   </a>
   <a href="https://www.facebook.com/fares.wael.37" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://fareshegazi.github.io" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
   </a>
 </p>  
 
