@@ -25,43 +25,17 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <!-- Replace with your real LinkedIn -->
-  <a href="<h1 align="center">Hi, I'm Fares Hegazi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-🚀 Digital IC Design Student | 🎯 Team Leader @ Momentum | ✍️ Content Creator  
-</p>
-
----
-
-## <picture><img src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/about_me.gif?raw=true" width="50px"></picture> About Me  
-
-<picture> 
-  <img align="right" src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/Right_Side.gif?raw=true" width="250px">
-</picture>
-
-- 🎓 Undergraduate **Communication Engineering Student (ECE)**  
-- 💡 Specialized in **Digital IC Design, Verification, and Embedded Systems**  
-- 👨‍🏫 Instructor in **Digital Design & Hardware**  
-- 🧑‍💼 **Leader of Momentum Student Team** (since 2024)  
-- 📝 3+ years of experience as a **Content Creator & Marketing Specialist**  
-- ⚡ Passionate about **Chip Design, Hardware Projects, and PCB Design**  
-- 📧 Reach me at **[your email here]**  
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <!-- Replace with your real LinkedIn -->
   <a href="https://www.linkedin.com/in/fares-hegazi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <!-- Replace with your real Facebook -->
   <a href="https://www.facebook.com/fares.wael.37" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  
+  <a href="https://fareshegazi.github.io" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
+  </a>
+</p>  
+
 ---
 
 ## 🛠️ Skills  
@@ -110,7 +84,7 @@
 ---
 
 ## 🏆 Achievements  
-- 🏳️ **Momentum's Team Leader** for 2024 - 2025
+- 🏳️ **Momentum's Team Leader** for 2024 - 2025  
 - 🥈 **2nd Place RoboSoccer** Competition  
 - 🤝 Led **partnerships & marketing campaigns** (e.g. Barq, The Stage, Momentum collaborations)  
 - 🎤 Instructor in **IC Design & Hardware Trainings**  
@@ -120,17 +94,3 @@
 <p align="center">
   <a href="#"><img src="https://profile-counter.glitch.me/Fares-Hegazi/count.svg" alt="Profile Views"></a>  
 </p>
-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <!-- Replace with your real Facebook -->
-  <a href="https://www.facebook.com/fares.hegazi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <!-- Optional: GitHub Portfolio Website -->
-  <a href="https://fareshegazi.github.io" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
-  </a>
-</p>  
-
----
