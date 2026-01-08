@@ -82,7 +82,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fares-Wael&theme=tokyonight" height="180px"/>
+  <img src="https://img.shields.io/github/followers/Fares-Wael?style=social" />
+  <img src="https://img.shields.io/github/last-commit/Fares-Wael?style=flat" />
 </p>
 
 
