@@ -79,12 +79,13 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fares-Wael&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fares-Wael&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fares-Wael&layout=compact&theme=tokyonight" height="180px"/>
 </p>
+
 
 ---
 
