@@ -82,18 +82,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Fares-Wael&show_icons=true&theme=radical&count_private=true&hide_border=false" height="180px" />
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fares-Wael&theme=dracula" height="180px"/>
 
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fares-Wael&layout=compact&theme=radical&hide_border=false" height="180px" />
+  <!-- Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fares-Wael&theme=dracula" height="180px"/>
 </p>
 
 <p align="center">
-  <!-- Contribution heatmap -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Fares-Wael&theme=react-dark&hide_border=true" height="180px" />
+  <!-- Contribution graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Fares-Wael&theme=react-dark&hide_border=true" height="180px"/>
 </p>
-
 
 ---
 
