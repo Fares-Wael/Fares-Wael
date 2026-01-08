@@ -89,11 +89,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fares-Wael&theme=dracula" height="180px"/>
 </p>
 
-<p align="center">
-  <!-- Contribution graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Fares-Wael&theme=react-dark&hide_border=true" height="180px"/>
-</p>
-
 ---
 
 ## 🏆 Achievements  
