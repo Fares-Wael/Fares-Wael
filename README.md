@@ -15,7 +15,7 @@
 - 🎓 Undergraduate **Communication Engineering Student (ECE)**  
 - 💡 Specialized in **Digital IC Design, Verification, and Embedded Systems**  
 - 👨‍🏫 Instructor in **Digital Design & Hardware**  
-- 🧑‍💼 **Leader of Momentum Student Team** (since 2024)  
+- 🧑‍💼 **Leader of Momentum Student Team** (2024 - 2025)  
 - 📝 3+ years of experience as a **Content Creator & Marketing Specialist**  
 - ⚡ Passionate about **Chip Design, Hardware Projects, and PCB Design**  
 - 📧 Reach me at **fareswaelheagzy@gmail.com**  
